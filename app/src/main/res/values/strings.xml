@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">HospitalLocator</string>
+    <string name="title_activity_maps">HMaps</string>
+    <string name="fname_hint">Enter First Name</string>
+    <string name="lname_hint">Enter Last Name</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="mobno">Enter Phone Number (optional)</string>
+    <string name="reg_no">Enter Reg Number</string>
+    <string name="message">Message</string>
+    <string name="register_btn">Register</string>
+    <string name="search_btn">Search Nearby Hospitals</string>
+    <string name="home_title">Hospital Locator</string>
+    <string name="results_title">IST099 EXAMINATION RESULTS</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="home">Home</string>
+    <string name="submit_btn">Register</string>
+
+<!--    navigation drawer-->
+    <string name="user_name">John Doe</string>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+    <string name="lblHeader_Profile">Profile</string>
+    <string name="lblHeader_Reviews">Reviews</string>
+
+    <string name="lblHeader_Services">Services</string>
+    <string name="lblHeader_ContactUs">Contact Us</string>
+    <string name="lblHeader_AboutUs">About Us</string>
+
+
+<!--    nav2-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="sign_out">Sign Out</string>
+
+    <string name="heart_attack">Heart Attack</string>
+    <string name="breathing_difficulty">Breathing Difficulty</string>
+    <string name="seizure">Seizure</string>
+    <string name="collapse">Collapse</string>
+    <string name="bleeding">Bleeding</string>
+    <string name="proceed">Proceed</string>
+
+</resources>
